@@ -2,8 +2,8 @@
 
 ## Links
 
-- **Live Demo:** [ССЫЛКА НА VERCEL/NETLIFY]
-- **Video Walkthrough:** [ССЫЛКА НА GOOGLE DRIVE]
+- **Live Demo:** https://wakanda-cinematic-project.vercel.app/
+- **Video Walkthrough:** https://drive.google.com/file/d/1W4Mb_pJvACwL87l9H6guJ88DMLJzDGtT/view?usp=sharing
 
 ## Tech Stack
 
